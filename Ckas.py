@@ -8,3 +8,5 @@ def pivo():
 
 def hahah():
     print("MyName")
+def hey():
+    print("Серега")
