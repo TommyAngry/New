@@ -5,3 +5,6 @@ name()
 
 def pivo():
     print("Не пей пиво")
+
+def hahah():
+    print("MyName")
